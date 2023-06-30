@@ -1,0 +1,5 @@
+resolusi
+
+1. belajar nodejs
+2.belajar react
+3. membuat project sederhana dari teknologi di atas
