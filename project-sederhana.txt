@@ -2,3 +2,4 @@ project sederhana
 1.membuat sistem login & registrasi
 2.membuat todo list app
 3.membuat website blog
+4.membuat website kasir
