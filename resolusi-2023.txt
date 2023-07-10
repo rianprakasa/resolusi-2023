@@ -1,7 +1,7 @@
 resolusi
 
 1. belajar nodejs
+  - hapi js
 2.belajar react
-3.belajar tailwind
 4. membuat project sederhana dari teknologi di atas
 5. membuat 2 project kompleks
