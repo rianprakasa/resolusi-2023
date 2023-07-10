@@ -3,7 +3,7 @@ resolusi
 1. belajar nodejs
   -express js
 2.belajar react
-  -express.js
+  -next.js
 3.belajar tailwind
 4. membuat project sederhana dari teknologi di atas
 5. membuat 2 project kompleks
